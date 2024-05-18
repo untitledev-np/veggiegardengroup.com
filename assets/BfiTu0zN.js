@@ -1,0 +1,1 @@
+import{_ as o}from"./rgYGhc5o.js";import{_ as e}from"./DlAUqK2U.js";import{f as n,w as a,o as r,d as _}from"./cyhtcpFh.js";const c={};function s(f,m){const t=o;return r(),n(t,null,{default:a(()=>[_(" Gran via page ")]),_:1})}const x=e(c,[["render",s]]);export{x as default};
