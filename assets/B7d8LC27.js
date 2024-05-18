@@ -1,1 +1,0 @@
-import{_ as o}from"./rgYGhc5o.js";import{_ as e}from"./DlAUqK2U.js";import{f as n,o as _,w as a,d as c}from"./cyhtcpFh.js";const r={};function s(f,m){const t=o;return _(),n(t,null,{default:a(()=>[c(" about page ")]),_:1})}const d=e(r,[["render",s]]);export{d as default};
