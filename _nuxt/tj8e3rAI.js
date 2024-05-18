@@ -1,0 +1,1 @@
+import{_ as e}from"./oa12H-Yy.js";import{_ as o}from"./DlAUqK2U.js";import{k as n,w as c,o as a,a as _}from"./OZ9PipI1.js";const s={},r=_("h2",{class:"text-3xl text-black font-bold mb-4 text-center"},"Menu page",-1);function x(f,l){const t=e;return a(),n(t,null,{default:c(()=>[r]),_:1})}const d=o(s,[["render",x]]);export{d as default};
