@@ -1,1 +1,0 @@
-import{_ as e}from"./P8ncJXN5.js";import{_ as o}from"./DlAUqK2U.js";import{l as c,w as n,o as a,a as _}from"./DrTxoRst.js";const s={},r=_("h2",{class:"text-3xl text-black font-bold mb-4 text-center"}," About page",-1);function l(x,f){const t=e;return a(),c(t,null,{default:n(()=>[r]),_:1})}const d=o(s,[["render",l]]);export{d as default};
