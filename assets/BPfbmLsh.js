@@ -1,0 +1,1 @@
+import{_ as e,c as o,w as c,b as n,o as a,a as s}from"./CFTPT5Qh.js";const _={},r=s("h2",{class:"text-3xl text-black font-bold mb-4 text-center"},"Menu page",-1);function x(l,u){const t=n;return a(),o(t,null,{default:c(()=>[r]),_:1})}const f=e(_,[["render",x]]);export{f as default};
