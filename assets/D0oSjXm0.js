@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as c,w as n,a,b as s}from"./Dg_ZKKrs.js";const _={},r=a("h2",{class:"text-3xl text-black font-bold mb-4 text-center"}," About page",-1);function x(l,u){const t=s;return c(),o(t,null,{default:n(()=>[r]),_:1})}const f=e(_,[["render",x]]);export{f as default};
